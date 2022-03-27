@@ -147,7 +147,7 @@
 			"named": "https://maven.fabricmc.net/net/fabricmc/yarn/1.18.1+build.22/yarn-1.18.1+build.22-v2.jar"
 		},
 		"1.18.2": {
-			"intermediary": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.18.1/intermediary-1.18.1-v2.jar",
+			"intermediary": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.18.2/intermediary-1.18.2-v2.jar",
 			"named": "https://maven.fabricmc.net/net/fabricmc/yarn/1.18.2+build.2/yarn-1.18.2+build.2-v2.jar"
 		}
 	}

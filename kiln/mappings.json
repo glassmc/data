@@ -148,7 +148,11 @@
 		},
 		"1.18.2": {
 			"intermediary": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.18.2/intermediary-1.18.2-v2.jar",
-			"named": "https://maven.fabricmc.net/net/fabricmc/yarn/1.18.2+build.2/yarn-1.18.2+build.2-v2.jar"
+			"named": "https://maven.fabricmc.net/net/fabricmc/yarn/1.18.2+build.3/yarn-1.18.2+build.3-v2.jar"
+		},
+		"1.19": {
+			"intermediary": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.19/intermediary-1.19-v2.jar",
+			"named": "https://maven.fabricmc.net/net/fabricmc/yarn/1.19+build.4/yarn-1.19+build.4-v2.jar"
 		}
 	}
 }
